@@ -1,0 +1,33 @@
+# Core Python utilities
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+keras
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+
+# Data Handling & Preprocessing
+opencv-python
+pillow
+
+# Jupyter & Notebooks
+jupyter
+notebook
+
+streamlit
